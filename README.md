@@ -3,7 +3,7 @@
 A C++ implementation of text file compression using Huffman coding algorithm. This project provides functionality for compressing text files, decompressing them back to their original form, and searching for specific character information within files.
 
 ## Author
-- Syed Jaffar Raza Kazmi
+- Ansh Jain
   
 ## Features
 
